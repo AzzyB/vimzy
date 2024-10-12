@@ -7,27 +7,33 @@ Azzy's neovim config for the lazy programmer.
 Default configs for neovim using the Lazy nvim package manager that streamline tasks for programming and documentation.
 
 #### Features
+* [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - file exploration structure with easy manipulation (add, delete, rename, etc.)
+* LSP Configuration using Mason
+* Customizable greeter dashboard using [alpha](https://github.com/goolord/alpha-nvim)
 * 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Well [neovim](https://neovim.io/) of course
+* [tmux](https://github.com/tmux/tmux)
 
-### Installing
+### "Installation"
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone or download this repo and copy paste the nvim folder into your ~/.config folder. Running nvim for the first time will auto run all the plugins and download what is needed.  
+* NOTE: make sure you don't have any pre-existing configs you may want to keep if you choose to just copy/paste/overwrite should there be an existing nvim config folder.  
 
-### Executing program
+### Help
+* I'm assuming if you're here you know how to navigate around neovim but if not here's the [cheatsheet](https://neovim.io/doc/user/quickref.html)
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+---default keybindings to be listed---
 
-## Help
+### To-Do's
+* Document default keybinds and how to edit them
+* Explain plugin usage in detail
+* Implement theme plugin
+* Implement markdown live preview
+* Update feature list (its not done yet)
 
 ## Acknowledgments
-
+* [Typecraft](https://youtu.be/zHTeCSVAFNY?si=CLY7Iw2ydervuDeM) for an amazing course for 0 to IDE for neovim
+* ML4W's hyprland starter [git](https://github.com/mylinuxforwork/hyprland-starter) where I poked around in some files
