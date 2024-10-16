@@ -14,7 +14,7 @@ Default configs for neovim using the Lazy nvim package manager that streamline t
 * 
 
 ### Dependencies
-_This installation is for my Arch system but it's dependencies should be system agnostic therefor just use whatever package manager is relevant to your respective system._
+_This installation is for my Arch system but it's dependencies should be system agnostic therefore just use whatever package manager is relevant to your respective system._
 
 * Well [neovim](https://neovim.io/) of course
 * [tmux](https://github.com/tmux/tmux)
