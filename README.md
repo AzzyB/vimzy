@@ -1,6 +1,6 @@
 # Vimzy
 
-## Azzy's neovim config for the lazy programmer.
+## Azzy's neovim config for the terminal programmer.
 
 ![image](https://github.com/AzzyB/vimzy/blob/main/screenshots/greeter_dashboard.png)
 
