@@ -13,6 +13,7 @@ Default configs for neovim using the Lazy nvim package manager that streamline t
 * LSP Configuration using [Mason](https://github.com/mason-org/mason.nvim)
 * Customizable greeter dashboard using [alpha](https://github.com/goolord/alpha-nvim)
 * Updatable/modifiable plugins via [lazy](https://github.com/folke/lazy.nvim) plugin manager
+* Multiple "workspaces" via tmux terminal multiplexer
 
 ### Dependencies
 _This installation is for my Arch system but it's dependencies should be system agnostic therefore just use whatever package manager is relevant to your respective system._
