@@ -12,7 +12,7 @@ Default configs for neovim using the Lazy nvim package manager that streamline t
 * [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - file exploration structure with easy manipulation (add, delete, rename, etc.)
 * LSP Configuration using Mason
 * Customizable greeter dashboard using [alpha](https://github.com/goolord/alpha-nvim)
-* 
+* Updatable/modifiable plugins via lazy plugin manager
 
 ### Dependencies
 _This installation is for my Arch system but it's dependencies should be system agnostic therefore just use whatever package manager is relevant to your respective system._
